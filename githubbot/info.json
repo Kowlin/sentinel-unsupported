@@ -1,0 +1,8 @@
+{
+    "author": ["Kowlin"],
+    "description": "This cog is an interface for a GitHub user bot. You can use it to ~~destroy~~ manage your github Repo",
+    "install_msg": "Thanks for for installing, this cog is unsupported, and only developers should use it if they know what they are doing. If you want a cog that interacts with GitHub and pulls in issues, try GitHubCards",
+    "short": "Unsupported, use at your own risk",
+    "min_bot_version": "3.1.0",
+    "tags": ["unsupported"]
+}
